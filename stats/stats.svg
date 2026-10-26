@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="399" height="194" rx="4.5" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" font-size="18" font-weight="600" fill="#e63946">Estatísticas do GitHub</text>
+  <circle cx="32" cy="70" r="5" fill="#e63946"/>
+  <text x="48" y="75" font-size="14" font-weight="600" fill="#c9d1d9">Total de commits:</text>
+  <text x="300" y="75" font-size="14" font-weight="700" fill="#c9d1d9">1796</text>
+  <circle cx="32" cy="102" r="5" fill="#e63946"/>
+  <text x="48" y="107" font-size="14" font-weight="600" fill="#c9d1d9">Total de PRs:</text>
+  <text x="300" y="107" font-size="14" font-weight="700" fill="#c9d1d9">599</text>
+  <circle cx="32" cy="134" r="5" fill="#e63946"/>
+  <text x="48" y="139" font-size="14" font-weight="600" fill="#c9d1d9">Repositórios:</text>
+  <text x="300" y="139" font-size="14" font-weight="700" fill="#c9d1d9">21</text>
+  <text x="25" y="175" font-size="11" fill="#8b949e">Inclui repositórios privados</text>
+</svg>

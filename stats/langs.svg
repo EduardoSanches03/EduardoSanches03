@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="349" height="194" rx="4.5" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" font-size="18" font-weight="600" fill="#e63946">Linguagens mais usadas</text>
+  <clipPath id="r"><rect x="25" y="55" width="300" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#r)"><rect x="25.00" y="55" width="254.56" height="8" fill="#3178c6"/><rect x="279.56" y="55" width="13.76" height="8" fill="#663399"/><rect x="293.32" y="55" width="9.75" height="8" fill="#f1e05a"/><rect x="303.07" y="55" width="7.54" height="8" fill="#ff5a03"/><rect x="310.61" y="55" width="5.87" height="8" fill="#e34c26"/><rect x="316.47" y="55" width="2.81" height="8" fill="#178600"/></g>
+  <circle cx="30" cy="91" r="5" fill="#3178c6"/>
+  <text x="41" y="95" font-size="12" fill="#c9d1d9">TypeScript 84.9%</text>
+  <circle cx="180" cy="91" r="5" fill="#663399"/>
+  <text x="191" y="95" font-size="12" fill="#c9d1d9">CSS 4.6%</text>
+  <circle cx="30" cy="119" r="5" fill="#f1e05a"/>
+  <text x="41" y="123" font-size="12" fill="#c9d1d9">JavaScript 3.2%</text>
+  <circle cx="180" cy="119" r="5" fill="#ff5a03"/>
+  <text x="191" y="123" font-size="12" fill="#c9d1d9">Astro 2.5%</text>
+  <circle cx="30" cy="147" r="5" fill="#e34c26"/>
+  <text x="41" y="151" font-size="12" fill="#c9d1d9">HTML 2.0%</text>
+  <circle cx="180" cy="147" r="5" fill="#178600"/>
+  <text x="191" y="151" font-size="12" fill="#c9d1d9">C# 0.9%</text>
+</svg>
